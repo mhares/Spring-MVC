@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<form method="get" action="processForm">
+<form method="get" action="processFormVersionTwo">
 
      <input type="text" name="studentName" placeholder="What is your name ? " />
      
